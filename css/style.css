@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1.2rem;
+}
+html {
+  font-family: 'Arial', sans-serif;
+  background-color: #ff9f32;
+  color: #fff;
+}
+body {
+  margin: 0 10% 20% 10%;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  margin: 0.25em 0;
+}
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
+}
+p {
+  text-align: center;
+  margin-bottom: 1em;
+}
+#tagline {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+#mayphoto {
+  width: 25%;
+  display: block;
+  margin: 3rem auto;
+}
+
+.shop-items {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.shop-item {
+  width: 45%;
+  margin-bottom: 5%;
+}
+.shop-item img {
+  width: 100%;
+}
+.item-name {
+  font-size: 2rem;
+}
