@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Wildrose Instruments
+title: Ursa Instruments
 ---
 
 <span id="tagline">
-Handmade instruments and crafts.
+Handmade music-making devices.
 </span>
 
-Wildrose Instruments is a one-woman operation based in Montreal, Quebec, Canada.
+Ursa Instruments is a one-woman operation based in Montreal, Quebec, Canada.
 
-Currently, I make banjos and also other small wooden crafts. Check out the "Shop" page to see what's available.
+Currently, I make open-back banjos but I am planning on expanding to other types of instruments in the future. Check out the "Shop" page to see what's available.
 
 I also take custom commissions.
 If you have an idea for a woodworking and/or instrument project, don't hesitate to reach out!

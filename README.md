@@ -1,6 +1,6 @@
-# mayshukla.github.io
+# ursainstruments.com
 
-My personal GitHub Pages website.
+Website for Ursa Instruments.
 
 ## Running Locally
 

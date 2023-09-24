@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shop - Wildrose Instruments
+title: Shop - Ursa Instruments
 ---
 
 ## Shop

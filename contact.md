@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact - Wildrose Instruments
+title: Contact - Ursa Instruments
 ---
 
 ## Contact
