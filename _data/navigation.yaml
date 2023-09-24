@@ -4,5 +4,7 @@
   link: /shop.html
 - name: About
   link: /about.html
+- name: Sarangi
+  link: /sarangi.html
 - name: Contact
-  link: /blog.html
+  link: /contact.html
