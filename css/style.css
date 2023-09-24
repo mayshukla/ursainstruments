@@ -24,6 +24,23 @@ p {
   margin-bottom: 1em;
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  color: #fff;
+  opacity: 75%;
+  text-decoration: none;
+  padding: 0.5em 0;
+}
+nav a:hover {
+  opacity: 100%;
+}
+.current_page {
+  border-bottom: 2px solid #fff;
+}
+
 img {
   width: 33%;
   display: inline;
