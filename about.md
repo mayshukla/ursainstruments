@@ -5,6 +5,8 @@ title: About - Ursa Instruments
 
 ## About
 
+<img src="resources/may_tres.jpg" id="mayphoto" alt="May playing the tres that she built.">
+
 My name is May Shukla and I run Ursa Instruments.
 
 I believe the most important difference between buying factory-made products and buying products from a smaller shop is the personal connection you get to have with the maker.

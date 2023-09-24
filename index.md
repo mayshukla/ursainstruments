@@ -3,9 +3,11 @@ layout: default
 title: Ursa Instruments
 ---
 
-<span id="tagline">
-Handmade music-making devices.
-</span>
+<p id="tagline">
+Handmade vessels of song.
+</p>
+
+<img class="banner" src="/resources/banjo_rim_hardware.jpg" alt="An Ursa banjo rim with brass hardware.">
 
 Ursa Instruments is a one-woman operation based in Montreal, Quebec, Canada.
 
@@ -15,5 +17,3 @@ I also take custom commissions.
 If you have an idea for a woodworking and/or instrument project, don't hesitate to reach out!
 
 \- May
-
-<img id="mayphoto" alt="Photo of me!" src="/resources/may.jpg" />

@@ -39,12 +39,18 @@ video {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.5em;
   font-style: italic;
+  text-align: center;
+}
+
+.banner {
+  width: 100%;
+  padding: 1em 0;
 }
 
 #mayphoto {
-  width: 25%;
+  width: 33%;
   display: block;
-  margin: 3rem auto;
+  margin: 1em auto;
 }
 
 .shop-items {
