@@ -5,10 +5,6 @@ title: Sarangi - Ursa Instruments
 
 ## The Sarangi
 
-<video controls width="250">
-  <source src="/resources/sarangi/playing.mp4" type="video/mp4" />
-</video>
-
 This is an experimental instrument that I built for myself.
 Although this instrument is not for sale I am open to custom orders for sarangis or other similar Indian instruments.
 Please reach out if you have an idea you'd like to discuss!
