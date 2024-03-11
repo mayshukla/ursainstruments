@@ -23,6 +23,14 @@ h1 {
 p {
   margin-bottom: 1em;
 }
+blockquote {
+  margin-bottom: 1rem;
+}
+blockquote p {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  text-align: center;
+}
 
 nav {
   display: flex;

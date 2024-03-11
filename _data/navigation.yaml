@@ -1,10 +1,8 @@
 - name: Home
   link: /
-- name: Shop
-  link: /shop.html
 - name: About
   link: /about.html
-- name: Sarangi
-  link: /sarangi.html
+- name: Pricing
+  link: /pricing.html
 - name: Contact
   link: /contact.html
