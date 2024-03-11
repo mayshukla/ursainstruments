@@ -4,5 +4,7 @@
   link: /about.html
 - name: Pricing
   link: /pricing.html
+- name: Blog
+  link: /blog.html
 - name: Contact
   link: /contact.html
