@@ -5,14 +5,15 @@ title: Contact - Ursa Instruments
 
 ## Contact
 
-Email: todo
+<!-- Email: todo -->
 
-Instagram: todo
+Instagram: <a href="https://www.instagram.com/ursa.instruments" target="_blank">ursa.instruments</a>
 
-Facebook: todo
+Facebook: <a href="https://www.facebook.com/ursa.instruments" target="_blank">ursa.instruments</a>
 
 Address:
 
+Ursa Instruments
 Mile End Guitar Co-op\
 5333 Casgrain Ave\
 Suite #208\
