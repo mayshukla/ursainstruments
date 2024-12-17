@@ -5,8 +5,6 @@ title: Contact - Ursa Instruments
 
 ## Contact
 
-<!-- Email: todo -->
-
 Email: <a href="mailto:ursainstruments@gmail.com" target="_blank">ursainstruments@gmail.com</a>
 
 Instagram: <a href="https://www.instagram.com/ursa.instruments" target="_blank">ursa.instruments</a>
