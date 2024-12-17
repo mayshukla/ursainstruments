@@ -2,9 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-size: 1.2rem;
 }
 html {
+  font-size: 1.2rem;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
 body {
