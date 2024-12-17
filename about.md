@@ -42,7 +42,7 @@ For example, I borrow design elements from instruments and decorative movements 
 However, I am always trying new methods of construction in order to make the banjo play better, sound better, and last longer!
 
 In the future I'd like to design other kinds of instruments (guitars? mandolins? Indian instruments?).
-I'd also like to continue to develop my skills as a woodworker and especially in decorative carving.
+I'd also like to continue to develop my skills as a woodworker.
 
 That's the story so far.
 

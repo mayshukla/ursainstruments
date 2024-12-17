@@ -4,11 +4,13 @@ title: Ursa Instruments
 ---
 
 <div class="banner">
-<img class="logo" src="/resources/ursa_logo_white.svg" alt="Ursa Instruments Logo" />
+<div class="card">
+<img class="logo" src="/resources/ursa_logo.svg" alt="Ursa Instruments Logo" />
 <h1>Instruments</h1>
 <p class="tagline">
 Handmade vessels of song.
 </p>
+</div>
 </div>
 
 Ursa Instruments is a one-woman operation based in Montreal, Quebec, Canada.
