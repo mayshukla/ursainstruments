@@ -33,6 +33,9 @@ blockquote p {
   padding: 2rem 0;
   margin-bottom: 2rem;
 }
+.banner_photo {
+  display: none;
+}
 .card {
   background-color: #fff;
   width: 25%;
@@ -92,18 +95,30 @@ video {
   margin: 1em auto;
 }
 
-.shop-items {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+@media screen
+  and (max-width: 1000px) {
+  nav {
+    flex-direction: column;
+  }
+  .banner{
+    background: none;
+  }
+  .card {
+    width: 50%;
+  }
+  .banner_photo {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+  }
+  img {
+    width: 100%;
+    display: block;
+  }
 }
-.shop-item {
-  width: 45%;
-  margin-bottom: 5%;
-}
-.shop-item img {
-  width: 100%;
-}
-.item-name {
-  font-size: 2rem;
+@media screen
+  and (max-width: 500px) {
+  .card {
+    width: 100%;
+  }
 }
