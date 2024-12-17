@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 html {
+  text-size-adjust: none;
   font-size: 1.2rem;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
@@ -120,5 +121,14 @@ video {
   and (max-width: 500px) {
   .card {
     width: 100%;
+  }
+}
+
+/* Fix weird font scaling on pixel 7. */
+@media screen
+  and (resolution < 275dpi)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  html {
+    font-size: 4rem;
   }
 }
