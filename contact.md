@@ -7,14 +7,15 @@ title: Contact - Ursa Instruments
 
 <!-- Email: todo -->
 
+Email: <a href="mailto:ursainstruments@gmail.com" target="_blank">ursainstruments@gmail.com</a>
+
 Instagram: <a href="https://www.instagram.com/ursa.instruments" target="_blank">ursa.instruments</a>
 
 Facebook: <a href="https://www.facebook.com/ursa.instruments" target="_blank">ursa.instruments</a>
 
 Address:
 
-Ursa Instruments
-Mile End Guitar Co-op\
+Ursa Instruments\
 5333 Casgrain Ave\
 Suite #208\
 Montreal, Quebec\
