@@ -110,7 +110,7 @@ video {
   .card {
     width: 100%
   }
-  .card img {
+  .card .logo {
     height: 50vh;
   }
   .banner {
