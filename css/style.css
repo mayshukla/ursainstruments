@@ -5,8 +5,8 @@
 }
 html {
   text-size-adjust: none;
-  font-size: 1.2rem;
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 body {
   margin: 0 10% 20% 10%;
@@ -31,8 +31,8 @@ blockquote p {
   background-image: url('/resources/banner.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 2rem 0;
-  margin-bottom: 2rem;
+  padding: 20px 0;
+  margin-bottom: 20px;
 }
 .banner_photo {
   display: none;
@@ -40,20 +40,20 @@ blockquote p {
 .card {
   background-color: #fff;
   width: 25%;
-  padding: 2rem;
+  padding: 20px;
   margin: 0 auto;
 }
 .logo {
   width: 100%;
   display: block;
   margin: 0 auto;
-  padding-top: 1rem;
+  padding-top: 10px;
 }
 .tagline {
   font-size: 1rem;
   font-style: italic;
   text-align: center;
-  margin-top: 1.5rem;
+  margin-top: 15px;
 }
 h1 {
   font-size: 1.5rem;
@@ -101,11 +101,20 @@ video {
   nav {
     flex-direction: column;
   }
+  nav a {
+    width: 100%;
+  }
   .banner{
     background: none;
   }
   .card {
-    width: 50%;
+    width: 100%
+  }
+  .card img {
+    height: 50vh;
+  }
+  .banner {
+    padding: 5px;
   }
   .banner_photo {
     display: block;
@@ -117,18 +126,14 @@ video {
     display: block;
   }
 }
-@media screen
-  and (max-width: 500px) {
-  .card {
-    width: 100%;
-  }
-}
 
-/* Fix weird font scaling on pixel 7. */
+/*
+Fix weird font scaling on pixel 7.
+*/
 @media screen
   and (resolution < 275dpi)
   and (-webkit-min-device-pixel-ratio: 2) {
   html {
-    font-size: 4rem;
+    font-size: 50pt;
   }
 }
